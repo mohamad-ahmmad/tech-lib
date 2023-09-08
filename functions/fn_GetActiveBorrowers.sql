@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
 use tech_lib;
 
+=======
+>>>>>>> 9159c266675ba024a3021aa48f1119ebf7338098
 CREATE FUNCTION fn_GetActiveBorrowers()
 RETURNS TABLE
 AS
