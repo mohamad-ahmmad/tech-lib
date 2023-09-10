@@ -1,4 +1,5 @@
 
+
 CREATE PROC sp_AddNewBorrower 
 	@fname NVARCHAR(64),
 	@lname NVARCHAR(64),
